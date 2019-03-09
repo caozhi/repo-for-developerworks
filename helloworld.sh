@@ -7,4 +7,3 @@ echo compare
 echo compare staged
 echo test push
 echo test revert
-echo test revert
